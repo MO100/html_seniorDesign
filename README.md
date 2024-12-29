@@ -1,3 +1,2 @@
 # My Website
-
-This is a basic website structure.# html_seniorDesign
+My teammates and I will be using this website for any updates we have throughout our time at senior design progress.
