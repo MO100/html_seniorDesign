@@ -1,6 +1,20 @@
+# Logs
 *.log
+
+# Dependency directories
 node_modules/
-/dist/
-/build/
-/.env
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
+
+# macOS system files
 .DS_Store
+
+# Optional: Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
